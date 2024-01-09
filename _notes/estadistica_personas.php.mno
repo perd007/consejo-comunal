@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_personas" value="name:id_persona;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:cedula;datatype:int,name:telefono;datatype:string,name:celular;datatype:string,name:direccion;datatype:string,name:sexo;datatype:string" />
+	<infoitem key="UD_masc" value="name:id_persona;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:cedula;datatype:int,name:telefono;datatype:string,name:celular;datatype:string,name:direccion;datatype:string,name:sexo;datatype:string" />
+	<infoitem key="UD_feme" value="name:id_persona;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:cedula;datatype:int,name:telefono;datatype:string,name:celular;datatype:string,name:direccion;datatype:string,name:sexo;datatype:string" />
+</info>
